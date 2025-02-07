@@ -1,0 +1,4 @@
+Dosya yolunda Türkçe karakterler bulunuyorsa hile açılmıyor.
+Yani eğer sorun varsa "C:" dosyasında "asd" adlı bir klasör oluşturun ve hileyi onun içine atın. Ve oradan çalıştırın.
+"C:\asd\run.bat" gibi
+İnsert Tuşu ile manü açılabilir
